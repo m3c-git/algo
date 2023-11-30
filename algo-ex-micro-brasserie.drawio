@@ -1,9 +1,262 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T15:23:12.812Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.5" etag="DiEOis8P9BzUSakncXsN" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-30T16:31:46.563Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="0iDaq8azNkc7MEpxfa1-" version="22.1.5" type="github">
   <diagram name="Page-1" id="2A7O_rwaesMc3nRfZvrf">
-    <mxGraphModel>
+    <mxGraphModel dx="2514" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-1" value="début" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-2" value="Concasser le malt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-3" target="94ZRHT_amdkoFv_r7_8H-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-3" value="&#xa;&lt;span style=&quot;color: rgb(10, 35, 69); font-family: Quicksand, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Transvaser le moût dans la cuve de chauffe&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1690" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-5" target="94ZRHT_amdkoFv_r7_8H-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-5" value="Démarrer le mélangeur" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-6" target="94ZRHT_amdkoFv_r7_8H-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-6" value="Mettre de l’eau dans la cuve filtre" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-7" target="94ZRHT_amdkoFv_r7_8H-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-7" value="Le mettre dans la cuve filtre" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-8" target="94ZRHT_amdkoFv_r7_8H-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-8" target="94ZRHT_amdkoFv_r7_8H-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-8" value="Tant que temps &amp;lt; 25 minutes" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="585" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-9" target="94ZRHT_amdkoFv_r7_8H-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="660" />
+              <mxPoint x="510" y="565" />
+              <mxPoint x="120" y="565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-9" value="Chauffer tant que la &lt;br&gt;température est &amp;lt; 55°C" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="585" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-16" target="94ZRHT_amdkoFv_r7_8H-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-16" target="94ZRHT_amdkoFv_r7_8H-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-16" value="Tant que temps &amp;gt; 25 minutes&lt;br&gt;et&lt;br&gt;Tant que temps &amp;lt; 55 minutes" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12.5" y="840" width="215" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-17" target="94ZRHT_amdkoFv_r7_8H-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="915" />
+              <mxPoint x="510" y="820" />
+              <mxPoint x="120" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-17" value="Chauffer tant que la &lt;br&gt;température est &amp;lt; 62°C" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="850" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-19" target="94ZRHT_amdkoFv_r7_8H-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-19" value="Tant que temps &amp;gt; 55 minutes&lt;br&gt;et&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Tant que temps &amp;lt; 80 minutes" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12.5" y="1080" width="215" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-20" target="94ZRHT_amdkoFv_r7_8H-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="502.5" y="1165" />
+              <mxPoint x="502.5" y="1060" />
+              <mxPoint x="120.5" y="1060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-20" value="Chauffer tant que la &lt;br&gt;température est &amp;lt; 67°C" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="1090" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-22" target="94ZRHT_amdkoFv_r7_8H-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-22" value="Tant que temps &amp;gt; 80 minutes&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;et&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Tant que temps &amp;lt; 90 minutes" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1330" width="190" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-23" value="Chauffer tant que la &lt;br&gt;température est &amp;lt; 75°C" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1345" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.526;entryY=0.056;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-19" target="94ZRHT_amdkoFv_r7_8H-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.531;entryY=0.031;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-23" target="94ZRHT_amdkoFv_r7_8H-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="1420" />
+              <mxPoint x="510" y="1336" />
+              <mxPoint x="255" y="1336" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-31" target="94ZRHT_amdkoFv_r7_8H-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-31" value="Stopper le mélangeur" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-32" value="Ne pas ajouter d&#39;épices" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="2542.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-22" target="94ZRHT_amdkoFv_r7_8H-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-35" value="Ajouter de l’eau dans la cuve filtre" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-37" target="94ZRHT_amdkoFv_r7_8H-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-37" value="&#xa;&lt;span style=&quot;color: rgb(10, 35, 69); font-family: Quicksand, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Ajouter le houblon aromatique&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="37.5" y="2340" width="155" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-38" target="94ZRHT_amdkoFv_r7_8H-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-38" value="&#xa;&lt;span style=&quot;color: rgb(10, 35, 69); font-family: Quicksand, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Ajouter le houblon amer&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-40" target="94ZRHT_amdkoFv_r7_8H-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-40" target="94ZRHT_amdkoFv_r7_8H-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-40" value="Tant que temps &amp;lt; 90 minutes" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="2100" width="190" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-41" value="Chauffer tant que la &lt;br&gt;température est &amp;lt; 100°C" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="2115" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.531;entryY=0.031;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-41" target="94ZRHT_amdkoFv_r7_8H-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="2190" />
+              <mxPoint x="520" y="2106" />
+              <mxPoint x="265" y="2106" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-45" target="94ZRHT_amdkoFv_r7_8H-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-52" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;non&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="94ZRHT_amdkoFv_r7_8H-47">
+          <mxGeometry x="0.0748" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-45" target="94ZRHT_amdkoFv_r7_8H-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-54" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;oui&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="94ZRHT_amdkoFv_r7_8H-53">
+          <mxGeometry x="-0.3852" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-45" value="S’il y a des épices, &lt;br&gt;les ajouter" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="52.5" y="2500" width="125" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-48" target="94ZRHT_amdkoFv_r7_8H-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-48" value="&#xa;&lt;span style=&quot;color: rgb(10, 35, 69); font-family: Quicksand, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Mettre le moût dans la cuve de fermentation&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="3390" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-50" target="94ZRHT_amdkoFv_r7_8H-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-50" value="&#xa;&lt;span style=&quot;color: rgb(10, 35, 69); font-family: Quicksand, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Ajouter le levure&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="3250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-51" value="Ajouter les épices" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="2690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-56" target="94ZRHT_amdkoFv_r7_8H-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-56" target="94ZRHT_amdkoFv_r7_8H-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-56" value="Tant que temps &amp;gt; 1h20&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;et&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Tant que temps &amp;lt; 1h30" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="2845" width="190" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-57" value="Chauffer tant que la &lt;br&gt;température est &amp;lt; 100°C" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="2860" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.531;entryY=0.031;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-57" target="94ZRHT_amdkoFv_r7_8H-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="2920" />
+              <mxPoint x="515" y="2920" />
+              <mxPoint x="515" y="2850" />
+              <mxPoint x="260" y="2850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.474;entryY=0.111;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-51" target="94ZRHT_amdkoFv_r7_8H-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-60" target="94ZRHT_amdkoFv_r7_8H-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="3170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="3275" />
+              <mxPoint x="310" y="3180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-60" value="&lt;br&gt;&lt;span style=&quot;color: rgb(10, 35, 69); font-family: Quicksand, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Envoyer le moût dans le refroidisseur &lt;br&gt;tant que sa température est &amp;gt; 15°C&lt;/span&gt;&lt;br&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="3180" width="340" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.01;entryY=0.642;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-60" target="94ZRHT_amdkoFv_r7_8H-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="61.17" y="3390" as="sourcePoint" />
+            <mxPoint x="489.97000000000014" y="3458.8" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="3440" />
+              <mxPoint x="548" y="3440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-66" target="94ZRHT_amdkoFv_r7_8H-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-66" value="&lt;br&gt;&lt;span style=&quot;color: rgb(10, 35, 69); font-family: Quicksand, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Maintenir la température à 15°C &lt;br&gt;tant que le taux d’alcool est &amp;lt; 12°&lt;/span&gt;&lt;br&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="2920" width="280" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-68" value="fin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="2740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94ZRHT_amdkoFv_r7_8H-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="94ZRHT_amdkoFv_r7_8H-66" target="94ZRHT_amdkoFv_r7_8H-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
