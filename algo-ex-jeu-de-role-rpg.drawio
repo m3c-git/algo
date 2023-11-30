@@ -1,9 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T14:43:37.367Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.5" etag="h0gXj_AKej9aLVSsk6gE" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-30T15:21:16.223Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="v8Q4xZk2kFYvo7FWznAI" version="22.1.5" type="github">
   <diagram name="Page-1" id="zOcgF9_M5ki_a-LOxa2a">
-    <mxGraphModel>
+    <mxGraphModel dx="1195" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nlR-RqxE0BDJx8054cwg-1" value="debut" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nlR-RqxE0BDJx8054cwg-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nlR-RqxE0BDJx8054cwg-4" target="nlR-RqxE0BDJx8054cwg-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nlR-RqxE0BDJx8054cwg-4" value="ecrire votre nombre de points &lt;br&gt;de vie" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="150" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nlR-RqxE0BDJx8054cwg-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nlR-RqxE0BDJx8054cwg-5" target="nlR-RqxE0BDJx8054cwg-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nlR-RqxE0BDJx8054cwg-5" value="lire pv_joueur&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="310" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nlR-RqxE0BDJx8054cwg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nlR-RqxE0BDJx8054cwg-7" target="nlR-RqxE0BDJx8054cwg-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nlR-RqxE0BDJx8054cwg-7" value="ecrire votre nombre de points&lt;br&gt;d&#39;attaque" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="450" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nlR-RqxE0BDJx8054cwg-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nlR-RqxE0BDJx8054cwg-9" target="nlR-RqxE0BDJx8054cwg-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nlR-RqxE0BDJx8054cwg-9" value="lire pa_joueur&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="560" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nlR-RqxE0BDJx8054cwg-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nlR-RqxE0BDJx8054cwg-11" target="nlR-RqxE0BDJx8054cwg-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nlR-RqxE0BDJx8054cwg-11" value="Générer aléatoirement un nombre de points de vie et stocker dans pv_ennemi" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12.5" y="710" width="205" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nlR-RqxE0BDJx8054cwg-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nlR-RqxE0BDJx8054cwg-14" target="nlR-RqxE0BDJx8054cwg-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nlR-RqxE0BDJx8054cwg-14" value="Générer aléatoirement un nombre de points d’attaque et stocker dans pa_ennemi" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12.5" y="890" width="205" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nlR-RqxE0BDJx8054cwg-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nlR-RqxE0BDJx8054cwg-21" target="nlR-RqxE0BDJx8054cwg-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="217.5" y="1120.0000000000002" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nlR-RqxE0BDJx8054cwg-29" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;oui&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nlR-RqxE0BDJx8054cwg-19">
+          <mxGeometry x="0.11" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nlR-RqxE0BDJx8054cwg-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.476;exitY=1.022;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nlR-RqxE0BDJx8054cwg-18" target="nlR-RqxE0BDJx8054cwg-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="1609.0000000000002" as="sourcePoint" />
+            <mxPoint x="445" y="1899.0000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="2010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nlR-RqxE0BDJx8054cwg-18" value="pv_ennemi = pa_ennemi - pa_joueur" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12.5" y="1490" width="205" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nlR-RqxE0BDJx8054cwg-21" value="pv_joueur &amp;gt; 0&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="42.5" y="1200" width="145" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="nlR-RqxE0BDJx8054cwg-26" value="pv_ennemi &amp;gt; 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="42.5" y="1740" width="145" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="nlR-RqxE0BDJx8054cwg-31" value="pv_joueur = pv_joueur&amp;nbsp; - pa_ennemi&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1490" width="205" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nlR-RqxE0BDJx8054cwg-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nlR-RqxE0BDJx8054cwg-32" target="nlR-RqxE0BDJx8054cwg-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nlR-RqxE0BDJx8054cwg-36" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;oui&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nlR-RqxE0BDJx8054cwg-35">
+          <mxGeometry x="-0.0233" y="-6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nlR-RqxE0BDJx8054cwg-32" value="pv_ennemi &amp;gt; 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1200" width="145" height="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
