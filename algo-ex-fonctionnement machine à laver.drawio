@@ -1,9 +1,198 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T10:27:05.925Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.5" etag="qUOdEL0okRVRSLnncUTv" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T13:02:18.104Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="o5v7-zCw4YdXzvl179xr" version="22.1.5" type="github">
   <diagram name="Page-1" id="M-fSdhTkE_ozXanSfyd4">
-    <mxGraphModel>
+    <mxGraphModel dx="1405" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-1" value="debut lavage" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-2" value="demarrer tambour" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-3" value="pour&amp;nbsp; L de 1 à 20" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="834" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-4" value="mettre lessive" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-5" value="faire un tour de tambour" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="954" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-6" value="pause de 5s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="1044" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-7" value="fin pour&amp;nbsp; L&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1164" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-8" value="arrêter tambour" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-9" value="fin lavage" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1480" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-10" value="debut rincage" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-11" value="demarrer tambour" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-12" value="pour&amp;nbsp; r de 1 à 10" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="820" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-13" value="faire un tour de tambour" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-14" value="pause de 5s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-15" value="fin pour&amp;nbsp; L&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1150" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-16" value="arrêter tambour" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-17" value="fin rincage" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1480" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-18" value="debut adoucissant" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="970" y="40" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-26" value="demarrer tambour" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1105" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-27" value="pour&amp;nbsp; a de 1 à 10" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="840" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-28" value="faire un tour de tambour" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1125" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-29" value="pause de 5s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1125" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-30" value="fin pour&amp;nbsp; L&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="1170" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-31" value="arrêter tambour" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1125" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-32" value="ouverture vanne eau" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0sE916H1c4o6Fyjwz3KS-33" target="0sE916H1c4o6Fyjwz3KS-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-33" value="si eau&amp;nbsp; = 40c°" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="574" width="165" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="0sE916H1c4o6Fyjwz3KS-34" target="0sE916H1c4o6Fyjwz3KS-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-34" value="si niv eau = 50l&lt;br&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="240" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-35" value="chauffer eau" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="484" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-38" value="fermer eau" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="364" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-43" value="ouverture vanne eau" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0sE916H1c4o6Fyjwz3KS-45" target="0sE916H1c4o6Fyjwz3KS-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-45" value="si eau&amp;nbsp; = 40c°" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="574" width="165" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="0sE916H1c4o6Fyjwz3KS-47" target="0sE916H1c4o6Fyjwz3KS-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-47" value="si niv eau = 50l&lt;br&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="240" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-48" value="chauffer eau" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="484" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-49" value="fermer eau" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="364" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-50" value="ouverture vanne eau" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1105" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0sE916H1c4o6Fyjwz3KS-52" target="0sE916H1c4o6Fyjwz3KS-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-52" value="si eau&amp;nbsp; = 40c°" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="574" width="165" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="0sE916H1c4o6Fyjwz3KS-54" target="0sE916H1c4o6Fyjwz3KS-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-54" value="si niv eau = 50l&lt;br&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="240" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-55" value="chauffer eau" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="484" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-56" value="fermer eau" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1095" y="364" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-57" value="ouverture vanne eau" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1985.03" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0sE916H1c4o6Fyjwz3KS-59" target="0sE916H1c4o6Fyjwz3KS-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-59" value="si eau&amp;nbsp; = 40c°" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1960.03" y="574" width="165" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="0sE916H1c4o6Fyjwz3KS-61" target="0sE916H1c4o6Fyjwz3KS-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-61" value="si niv eau = 50l&lt;br&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1960.03" y="240" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-62" value="chauffer eau" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1980.03" y="484" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-63" value="fermer eau" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1975.03" y="364" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-64" value="ouverture vanne eau" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2385" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0sE916H1c4o6Fyjwz3KS-66" target="0sE916H1c4o6Fyjwz3KS-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-66" value="si eau&amp;nbsp; = 40c°" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2360" y="574" width="165" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="0sE916H1c4o6Fyjwz3KS-68" target="0sE916H1c4o6Fyjwz3KS-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-68" value="si niv eau = 50l&lt;br&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2360" y="240" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-69" value="chauffer eau" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="484" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-70" value="fermer eau" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2375" y="364" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-71" value="arreter chauffage eau" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-72" value="arreter chauffage eau" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="755" y="1936" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-73" value="mettre adoucissant" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1105" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0sE916H1c4o6Fyjwz3KS-74" value="fin adoucissant" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1480" width="350" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
